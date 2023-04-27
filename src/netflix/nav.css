@@ -1,0 +1,26 @@
+.navebar {
+    width: 100%;
+    background: #0000000a;
+    padding: 10px 30px;
+}
+.navebar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: absolute;
+}
+.navebar h2 {
+    font-size: 44px;
+    color: red;
+    letter-spacing: 3px;
+}
+.login_btn a {
+    padding: 11px 26px;
+    display: inline-block;
+    background:#7c7676ab;
+    margin-left: 19px;
+    border-radius: 5px;
+    font-size: 18px;
+    text-decoration: none;
+    color: #fff;
+}

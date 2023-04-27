@@ -1,0 +1,18 @@
+.banner{
+    height: 100vh;
+    background-position: top left;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 3rem;
+    color: #fff;
+}
+.banner-container p{
+    width: 40vw;
+}
+.banner h1{
+    font-size: 3rem;
+    font-weight: 900;
+}
